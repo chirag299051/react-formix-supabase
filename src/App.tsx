@@ -408,7 +408,7 @@ function App() {
         type: "number",
         placeholder: "Year",
         defaultValue: 2000,
-        validations: z.string(),
+        validations: z.number(),
 
         render: ({
           formDisabled,
