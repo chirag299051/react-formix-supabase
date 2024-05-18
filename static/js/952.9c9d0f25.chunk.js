@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_formix_supabase=self.webpackChunkreact_formix_supabase||[]).push([[952],{952:e=>{e.exports=function(){throw new Error("ws does not work in the browser. Browser clients must use the native WebSocket object")}}}]);
+//# sourceMappingURL=952.9c9d0f25.chunk.js.map

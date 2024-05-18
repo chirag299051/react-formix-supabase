@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-formix-supabase/static/css/main.44d7214b.css",
+    "main.js": "/react-formix-supabase/static/js/main.8647e5e5.js",
+    "static/js/952.9c9d0f25.chunk.js": "/react-formix-supabase/static/js/952.9c9d0f25.chunk.js",
+    "index.html": "/react-formix-supabase/index.html",
+    "main.44d7214b.css.map": "/react-formix-supabase/static/css/main.44d7214b.css.map",
+    "main.8647e5e5.js.map": "/react-formix-supabase/static/js/main.8647e5e5.js.map",
+    "952.9c9d0f25.chunk.js.map": "/react-formix-supabase/static/js/952.9c9d0f25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44d7214b.css",
+    "static/js/main.8647e5e5.js"
+  ]
+}
